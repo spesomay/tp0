@@ -107,14 +107,13 @@ p{
     height: 500px;
 }
 
-/* .fotos{
+.fotos{
     display: flex;
     justify-content: center;
-    background-size: cover;
-    background-position: center;
+    align-items: center;
     overflow: hidden;
-    padding: 20px;
-} */
+    margin-top: 5%;
+}
 
 .texto{
     justify-content: center;
@@ -147,7 +146,6 @@ p{
     height: 90px;
     width: 50px;
     background-color: aqua;
-    align-items: center;
-    justify-content: center;
+   
     
 }
