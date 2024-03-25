@@ -143,11 +143,11 @@ p{
 
 
 .cajaimg{
-    height: 90px;
-    width: 100px;
-    border-radius: 50%;
     display: flex;
-    margin: 10%;
+    height: 90px;
+    width: 50px;
+    background-color: aqua;
     align-items: center;
     justify-content: center;
+    
 }
