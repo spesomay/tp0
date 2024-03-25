@@ -158,3 +158,11 @@ img{
     background-size: cover;
 }
 
+.cajaimg{
+    height: 90px;
+    width: 100px;
+    border-radius: 50%;
+    display: flex;
+    background-color: #e99d9d;
+    margin: 10%;
+}
