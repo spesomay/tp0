@@ -149,4 +149,6 @@ p{
     display: flex;
     background-color: #e99d9d;
     margin: 10%;
+    align-items: center;
+    justify-content: center;
 }
