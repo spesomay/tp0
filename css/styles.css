@@ -107,14 +107,14 @@ p{
     height: 500px;
 }
 
-.fotos{
+/* .fotos{
     display: flex;
     justify-content: center;
     background-size: cover;
     background-position: center;
     overflow: hidden;
     padding: 20px;
-}
+} */
 
 .texto{
     justify-content: center;
