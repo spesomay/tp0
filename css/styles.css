@@ -75,6 +75,7 @@ p{
     height: 500px;
     background-color: rgb(202, 147, 75);
     display: flex;
+    text-align: center;
 }
 
 .arte1 {
@@ -159,4 +160,20 @@ img{
 
 .letra2{
     font-family: "Bebas Neue", sans-serif;
+    
+}
+
+.info{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    margin-top: 2%;
+}
+
+.infoo{
+    display: flex;
+    height: 180px;
+    width: 75%;
+    
 }
